@@ -1,5 +1,5 @@
 {
-"editor.fontFamily": "'Dank Mono', monospace",
+  "editor.fontFamily": "'Dank Mono', monospace",
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -92,5 +92,63 @@
         }
       }
     ]
-  }
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.accessibilitySupport": "off",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "html.format.wrapAttributes": "force-expand-multiline",
+  "blade.format.enable": true,
+  "bracket-pair-colorizer-2.colors": [
+    "#6930c3",
+    "#c70039",
+    "#153e90",
+    "#0d7377"
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "php.validate.run": "onType",
+  "[blade]": {
+    "editor.defaultFormatter": "onecentlin.laravel-blade"
+  },
+  "workbench.colorTheme": "GitHub Light",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "html.format.templating": true,
+  "git.suggestSmartCommit": false,
+  "discord.detailsEditing": "Editing: ?",
+  "discord.detailsDebugging": "Debugging ?",
+  "discord.lowerDetailsEditing": "Workspace: ?",
+  "discord.lowerDetailsDebugging": "Debugging: ?",
+  "discord.detailsIdling": "Away",
+  "discord.lowerDetailsIdling": "AFK",
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+"explorer.confirmDelete": false,
+  "editor.linkedEditing": true,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "workbench.iconTheme": "vscode-icons",
 }
